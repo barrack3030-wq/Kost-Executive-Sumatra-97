@@ -1,0 +1,6 @@
+{
+  "name": "Kost Executive Sumatra 97",
+  "description": "Demo portfolio website untuk Kost Executive Sumatra 97 di Gubeng, Surabaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
